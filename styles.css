@@ -112,6 +112,9 @@ header h1 {
   .tabbar ul li {
     margin: 0 5px; /* Reducir el margen entre los elementos en pantallas pequeñas */
   }
+  .presentation image{
+    display: none;
+  }
   
   .tabbar ul li a {
     font-size: 16px; /* Reducir el tamaño del texto en pantallas pequeñas */
