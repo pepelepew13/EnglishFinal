@@ -113,7 +113,7 @@ header h1 {
     margin: 0 5px; /* Reducir el margen entre los elementos en pantallas pequeñas */
   }
 
-   img .types {
+   .types {
     width: 300px; 
     border-radius: 15px; 
     border: 0px;
@@ -126,7 +126,7 @@ header h1 {
   }
 }
 
-img .types {
+.types {
   width: 300px; 
   border-radius: 15px; 
   border: 20px solid #333; 
