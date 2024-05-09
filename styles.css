@@ -107,6 +107,13 @@ header h1 {
   color: #333;
 }
 
+.types {
+  width: 300px; 
+  border-radius: 15px; 
+  border: 20px solid #333; 
+  margin-top: 10px;
+}
+
 /* Media query para pantallas pequeñas */
 @media screen and (max-width: 768px) {
   .tabbar ul li {
@@ -114,23 +121,13 @@ header h1 {
   }
 
    .types {
-    width: 300px; 
-    border-radius: 15px; 
     border: 0px;
-    margin-top: 10px;
   }
   
   .tabbar ul li a {
     font-size: 16px; /* Reducir el tamaño del texto en pantallas pequeñas */
     padding: 8px 16px; /* Reducir el padding en pantallas pequeñas */
   }
-}
-
-.types {
-  width: 300px; 
-  border-radius: 15px; 
-  border: 20px solid #333; 
-  margin-top: 10px;
 }
 
 /* Estilos de sección */
