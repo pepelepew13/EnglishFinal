@@ -112,9 +112,11 @@ header h1 {
   .tabbar ul li {
     margin: 0 5px; /* Reducir el margen entre los elementos en pantallas pequeñas */
   }
-  .types{
+
+   img .types {
     width: 300px; 
     border-radius: 15px; 
+    border: 0px;
     margin-top: 10px;
   }
   
@@ -124,7 +126,7 @@ header h1 {
   }
 }
 
-.types {
+img .types {
   width: 300px; 
   border-radius: 15px; 
   border: 20px solid #333; 
