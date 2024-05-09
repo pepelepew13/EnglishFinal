@@ -113,7 +113,9 @@ header h1 {
     margin: 0 5px; /* Reducir el margen entre los elementos en pantallas pequeñas */
   }
   .types{
-    display: none;
+    width: 300px; 
+    border-radius: 15px; 
+    margin-top: 10px;
   }
   
   .tabbar ul li a {
@@ -123,7 +125,10 @@ header h1 {
 }
 
 .types {
-  width: 300px; border-radius: 15px; border: 20px solid #333; margin-top: 10px;
+  width: 300px; 
+  border-radius: 15px; 
+  border: 20px solid #333; 
+  margin-top: 10px;
 }
 
 /* Estilos de sección */
